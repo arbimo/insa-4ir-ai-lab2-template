@@ -33,6 +33,8 @@ pub fn select_action_randomly(board: PlayableBoard) -> Option<Action> {
 }
 
 pub fn select_action_greedily(board: PlayableBoard) -> Option<Action> {
+    // DO NOT COPY PAST from select_action_randomly
+    // You can use for inspiration on how to use the API, but the selection process is fairly different
     todo!()
 }
 
